@@ -1,0 +1,21 @@
+/****************************************
+GENERAL
+****************************************/
+
+body {
+  margin: 0; 
+  padding: 0; 
+  overflow: 
+  hidden
+}
+
+#timeElapsed {
+  height: 50px;
+  width: 400px;
+  font-size: 42px; 
+  color: #fff; 
+  font-family: sans-serif; 
+  background-color: #000; 
+  vertical-align: middle;
+  text-align: center;
+}
